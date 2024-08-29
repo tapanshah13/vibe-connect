@@ -13,7 +13,7 @@ VibeConnect is a mock social media web application that allows you to create a c
 
 ## Table of Contents
 
-- [**Whoo**](#listening-lobby)
+- [**VibeConnect**](#vibe-connect)
   - [_Features_](#features)
 - [Table of Contents](#table-of-contents)
 - [Built With](#built-with)

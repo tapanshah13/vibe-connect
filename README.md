@@ -7,8 +7,6 @@ VibeConnect is a mock social media web application that allows you to create a c
 
 - Provides a platform for professionals to get in touch and collaborate!
 
-- Our easy-to-use messaging system allows users to chat with friends, start group chats and more.
-
 - Easily search for friends and colleagues to add them as friends.
 
 ## Table of Contents
